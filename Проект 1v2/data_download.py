@@ -36,6 +36,6 @@ def notify_if_strong_fluctuations(data, threshold=20):
 
     dif = max_price - min_price
     percent = dif / (calculate_and_display_average_price(data) / 100)
-    if float(percent) >= float(threshold):
+    if percent >= threshold:
         logging.warning('высокий уровень колебания акций!')
         return 'Компания не стабильна, будьте внимательны!'
