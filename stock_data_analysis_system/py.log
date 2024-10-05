@@ -1,0 +1,10 @@
+2024-10-06 01:45:52,491 | INFO | Стандартное отклонение цен закрытия акций: 5.701980116986423
+2024-10-06 01:45:53,614 | ERROR | E-1001 (BAD_COLUMN_NAME): Glyph refers to nonexistent column name. This could either be due to a misspelling or typo, or due to an expected column being missing. : x='index' [no close matches] {renderer: GlyphRenderer(id='p1068', ...)}
+2024-10-06 01:45:53,614 | ERROR | E-1001 (BAD_COLUMN_NAME): Glyph refers to nonexistent column name. This could either be due to a misspelling or typo, or due to an expected column being missing. : x='index' [no close matches] {renderer: GlyphRenderer(id='p1057', ...)}
+2024-10-06 01:45:53,675 | INFO | График закрытия цены и скользящего среднего сохранен как aapl_3mo_Solarize_Light2_stock_price_chart.html
+2024-10-06 01:45:53,866 | INFO | График RSI сохранен как aapl_3mo_RSI_chart.html
+2024-10-06 01:45:53,996 | INFO | График MACD сохранен как aapl_3mo_MACD_chart.html
+2024-10-06 01:45:54,104 | INFO | График стандартного отклонения сохранен как aapl_3mo_Solarize_Light2_StdDev_chart.html
+2024-10-06 01:45:54,104 | INFO | Таблица сохранена как aapl_3mo.csv
+2024-10-06 01:45:54,157 | INFO | средняя цена закрытия акций: 223.578173828125
+2024-10-06 01:45:54,171 | INFO | средняя цена закрытия акций: 223.578173828125
